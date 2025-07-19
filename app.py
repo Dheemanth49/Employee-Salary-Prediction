@@ -179,7 +179,7 @@ def main():
     <div style="text-align: center; color: rgba(255, 255, 255, 0.7);">
         <p>Made by Dheemanth</p>
         <p>
-            <a href="www.linkedin.com/in/dheemanth-dhanpalal-3a50bb324" target="_blank" style="color: #0077B5; margin: 0 10px; text-decoration: none;">LinkedIn</a> |
+            <a href="https://www.linkedin.com/in/dheemanth-dhanpalal-3a50bb324" target="_blank" style="color: #0077B5; margin: 0 10px; text-decoration: none;">LinkedIn</a> |
             <a href="https://github.com/Dheemanth49/Employee-Salary-Prediction.git" target="_blank" style="color: #FFFFFF; margin: 0 10px; text-decoration: none;">GitHub</a> |
             <a href="mailto:dheemanthdhanpal@gmail.com" style="color: #EA4335; margin: 0 10px; text-decoration: none;">Email</a>
         </p>
